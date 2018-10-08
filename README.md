@@ -71,3 +71,8 @@ then generete SSH key pair:
 ### Deploy catalogItem
 
 `git clone https://github.com/hassanziku/CatalogItem.git` to clone the project to the VM
+
+### Third-Party Resources
+
+[DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+[StackOverflow](https://stackoverflow.com)
